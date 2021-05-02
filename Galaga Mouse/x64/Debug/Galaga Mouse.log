@@ -1,0 +1,3 @@
+﻿  Galaga Mouse.cpp
+c:\users\angus\source\repos\galaga mouse\galaga mouse\galaga mouse.cpp(77): warning C4244: '=': conversion from 'LONG' to 'unsigned char', possible loss of data
+  Galaga Mouse.vcxproj -> C:\Users\Angus\source\repos\Galaga Mouse\x64\Debug\Galaga Mouse.exe

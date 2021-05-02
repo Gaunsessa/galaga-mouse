@@ -1,0 +1,6 @@
+﻿  Galaga Mouse.cpp
+c:\users\angus\source\repos\galaga mouse\galaga mouse\galaga mouse.cpp(77): warning C4244: '=': conversion from 'LONG' to 'unsigned char', possible loss of data
+  Generating code
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Galaga Mouse.vcxproj -> C:\Users\Angus\source\repos\Galaga Mouse\x64\Release\Galaga Mouse.exe
